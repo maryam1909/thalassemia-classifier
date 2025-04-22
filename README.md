@@ -34,7 +34,7 @@ Thalassemia is a blood disorder that requires early diagnosis for proper managem
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/thalassemia-classifier.git
+   git clone https://github.com/maryam1909/thalassemia-classifier.git
    cd thalassemia-classifier
    ```
 
